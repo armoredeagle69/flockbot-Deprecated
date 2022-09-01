@@ -1,0 +1,107 @@
+[
+    {
+        "label": "English",
+        "description": "English.",
+        "value": "english"
+    },
+    {
+        "label": "English-GB",
+        "description": "English-GB.",
+        "value": "english-gb"
+    },
+    {
+        "label": "Spanish",
+        "description": "Espanol.",
+        "value": "spanish"
+    },
+    {
+        "label": "German",
+        "description": "Deutsch.",
+        "value": "german"
+    },
+    {
+        "label": "Polish",
+        "description": "Polski.",
+        "value": "polish"
+    },
+    {
+        "label": "Bulgarian",
+        "description": "Български.",
+        "value": "bulgarian"
+    },
+    {
+        "label": "Czech",
+        "description": "Česky.",
+        "value": "czech"
+    },
+    {
+        "label": "French",
+        "description": "Français.",
+        "value": "french"
+    },
+    {
+        "label": "Hindi",
+        "description": "हिन्दी.",
+        "value": "hindi"
+    },
+    {
+        "label": "Irish",
+        "description": "Gaeilge.",
+        "value": "irish"
+    },
+    {
+        "label": "Turkish",
+        "description": "Türk.",
+        "value": "turkish"
+    },
+    {
+        "label": "Dutch",
+        "description": "Nederlands.",
+        "value": "dutch"
+    },
+    {
+        "label": "Estonian",
+        "description": "Eesti.",
+        "value": "estonian"
+    },
+    {
+        "label": "Finnish",
+        "description": "Suomalainen.",
+        "value": "finnish"
+    },
+    {
+        "label": "Greek",
+        "description": "Ελληνική.",
+        "value": "greek"
+    },
+    {
+        "label": "Hungarian",
+        "description": "Magyar.",
+        "value": "hungarian"
+    },
+    {
+        "label": "Italian",
+        "description": "Italian.",
+        "value": "italian"
+    },
+    {
+        "label": "Japanese",
+        "description": "やまと.",
+        "value": "japanese"
+    },
+    {
+        "label": "Latvian",
+        "description": "Latviešu.",
+        "value": "latvian"
+    },
+    {
+        "label": "Lithuanian",
+        "description": "Lietuvių kalba.",
+        "value": "lithuanian"
+    },
+    {
+        "label": "Danish",
+        "description": "Denmarkian.",
+        "value": "danish"
+    }
+]
