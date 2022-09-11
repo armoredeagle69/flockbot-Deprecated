@@ -17,7 +17,6 @@
 
 [![Discord](https://img.shields.io/discord/947695794805411932.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/c8auE6DFvg)
 [![Website flockbot.xyz](https://img.shields.io/website-up-down-green-red/http/flockbot.xyz.svg)](http://flockbot.xyz)
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![Bot Version](https://img.shields.io/github/v/tag/armoredeagle69/flockbot)
   
 </div>
