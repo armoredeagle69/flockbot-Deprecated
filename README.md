@@ -1,8 +1,13 @@
+
+
 <h1 align="center">
   <br>
-  FlockBot
+  FlockBot [Deprecated]
   <br>
 </h1>
+
+> [!caution]  
+> This content has been marked as Deprecated.
 
 <h3 align=center>A fully customizable, multi-purpose bot</h3>
 
